@@ -1,0 +1,15 @@
+{
+  "name": "Typescript_Study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daking0/Typescript_study.git",
+  "author": "daking0 <angk226@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  }
+}
